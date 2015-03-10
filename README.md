@@ -53,3 +53,9 @@ Then,you should set mail-address each person.
 # How to use xcodebuild
 * xcodebuild is to build ios application by command line.
 * http://blog.asial.co.jp/953 
+* 
+# command line build script
+## shenzen
+* http://qiita.com/k_kinukawa/items/8718aba35060cf838ffa
+* it's very useful!
+

@@ -69,3 +69,12 @@ Then,you should set mail-address each person.
 
 ## to want to divide build which debug or release.
 * http://qiita.com/ryusukefuda/items/63194d1165cdaea18ec9
+* 
+
+## difference between local notification and remote notification
+* Remote can't use on simulator.
+
+### good sample of local notification
+* https://sites.google.com/site/propicaudio/sample-code/notification-test
+
+

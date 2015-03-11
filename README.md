@@ -62,3 +62,7 @@ Then,you should set mail-address each person.
 # Push Notification with normal way
 * i will also create push notification with watch kit.
 * https://sites.google.com/site/aoi68k/home/push-notificationwo-shittemiru
+
+## Payload
+* APNSで送るメッセージの正体
+* https://developer.apple.com/library/ios/documentation/NetworkingInternet/Conceptual/RemoteNotificationsPG/Chapters/ApplePushService.html#//apple_ref/doc/uid/TP40008194-CH100-SW1

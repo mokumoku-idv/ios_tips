@@ -73,6 +73,7 @@ Then,you should set mail-address each person.
 
 ## difference between local notification and remote notification
 * Remote can't use on simulator.
+* local notification is to notice in same application.ローカルnotificationは同じアプリ内の通知である
 
 ### good sample of local notification
 * https://sites.google.com/site/propicaudio/sample-code/notification-test

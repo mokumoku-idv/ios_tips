@@ -59,3 +59,6 @@ Then,you should set mail-address each person.
 * http://qiita.com/k_kinukawa/items/8718aba35060cf838ffa
 * it's very useful!
 
+# Push Notification with normal way
+* i will also create push notification with watch kit.
+* https://sites.google.com/site/aoi68k/home/push-notificationwo-shittemiru

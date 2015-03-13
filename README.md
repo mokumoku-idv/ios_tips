@@ -82,5 +82,9 @@ Then,you should set mail-address each person.
 
 ### good sample of local notification
 * https://sites.google.com/site/propicaudio/sample-code/notification-test
+* 
+
+## To transfer development setting 
+* http://makotton.com/2014/10/24/625
 
 

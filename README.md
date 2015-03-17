@@ -86,5 +86,9 @@ Then,you should set mail-address each person.
 
 ## To transfer development setting 
 * http://makotton.com/2014/10/24/625
+* 
+
+## FMDB with ORM
+* http://mbehan.com/post/105556974748/super-basic-orm-on-top-of-fmdb-and-sqlite-for-ios
 
 

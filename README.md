@@ -94,3 +94,8 @@ Then,you should set mail-address each person.
 ## NSURLSession
 * This is instead of nsurlrequest.I think it is to use easier than nsurlrequest.
 * http://chicketen.blog.jp/archives/15787549.html
+
+## PlayGround
+
+Not to repeat to try playground.
+In playground,we can't try viewcontroller.If we want to use viewcontroller,i must develop by common way.

@@ -99,3 +99,8 @@ Then,you should set mail-address each person.
 
 Not to repeat to try playground.
 In playground,we can't try viewcontroller.If we want to use viewcontroller,i must develop by common way.
+
+## property of value
+* I think this page is good.
+* http://natsuapps.com/note/2011/11/ios5-arc-overview.html
+

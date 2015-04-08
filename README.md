@@ -104,3 +104,7 @@ In playground,we can't try viewcontroller.If we want to use viewcontroller,i mus
 * I think this page is good.
 * http://natsuapps.com/note/2011/11/ios5-arc-overview.html
 
+## Auto Layout
+* i think following page is good for me to understand auto-layout.
+* http://engineer.typemag.jp/article/ra-ios-tips06
+* http://qiita.com/teradonburi/items/94b89379aa5a0bfdc71d

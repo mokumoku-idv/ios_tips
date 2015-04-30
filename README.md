@@ -108,3 +108,8 @@ In playground,we can't try viewcontroller.If we want to use viewcontroller,i mus
 * i think following page is good for me to understand auto-layout.
 * http://engineer.typemag.jp/article/ra-ios-tips06
 * http://qiita.com/teradonburi/items/94b89379aa5a0bfdc71d
+* 
+
+# EXC_BAD_INSTRUCTION
+In i use not an optioanl value<br>
+If this value is setted to the 'nil',This error will be produced.

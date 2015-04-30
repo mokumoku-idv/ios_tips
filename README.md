@@ -114,6 +114,7 @@ In playground,we can't try viewcontroller.If we want to use viewcontroller,i mus
 * In i use not an optioanl value<br>
 If this value is setted to the 'nil',This error will be produced.
 
+## How to use instrument
 * http://blog.fenrir-inc.com/jp/2013/04/improve-mac-ios-apps-with-instruments.html
 * I guess it is good for me to use leaks to debug iPhone application<br>
 Product→Profile<br>

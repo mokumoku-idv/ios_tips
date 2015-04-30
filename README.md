@@ -111,5 +111,23 @@ In playground,we can't try viewcontroller.If we want to use viewcontroller,i mus
 * 
 
 # EXC_BAD_INSTRUCTION
-In i use not an optioanl value<br>
+* In i use not an optioanl value<br>
 If this value is setted to the 'nil',This error will be produced.
+
+* http://blog.fenrir-inc.com/jp/2013/04/improve-mac-ios-apps-with-instruments.html
+* I guess it is good for me to use leaks to debug iPhone application<br>
+Product→Profile<br>
+If i want to use profile I must check scheme info before running profile.
+
+# About protocol and delegate of objective-c
+* http://www.objectivec-iphone.com/introduction/protocol/protocol.html
+
+## swift クロージャ記法
+* http://qiita.com/kiyotaman/items/55966cc10ef2ed44c4fd
+
+## iOS web フック
+* http://www.yoheim.net/blog.php?q=20130105
+* http://blog.ch3cooh.jp/entry/20130208/1360299071
+
+* http://www.ibm.com/developerworks/jp/mobile/library/mo-ios-memory/
+

@@ -138,3 +138,8 @@ If i want to use profile I must check scheme info before running profile.
 * CFNetwork HTTPProtocol CopyVartState NSURLSession
 * iOS8のみで、デバッガと接続してる時のみっぽい
 * http://ja.stackoverflow.com/questions/4527/nsurlsession-%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A3%E7%B6%9A%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%AF-ios8
+* 
+
+## view hierarchy debugger
+* when you have some troubles on looks of aplication,you should use 'view hierarchy debugger'.
+* http://blog.atrac613.com/2015/01/28/debug-view-hierarchy/
